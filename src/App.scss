@@ -1,0 +1,29 @@
+* {
+  text-align: center;
+  justify-content: center;
+  height: 100%;
+  background-color: rgb(113, 62, 113);
+  animation: none;
+
+
+}
+
+body{
+     height:100%;
+      display:flex; 
+      align-items:center;
+      color: white;
+}
+.App {
+  border: 2px solid;
+  height: auto;
+  justify-content: center;
+  margin: 15px;
+  padding: 10px;
+  font-size: 30px;
+  gap: 15px;
+}
+button{
+  color: white;
+  justify-content: center;
+}
